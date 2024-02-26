@@ -19,4 +19,6 @@ class CustomDio extends DioForNative {
       ),
     );
   }
+  auth() {}
+  unauth() {}
 }
